@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 6582a94da9a61cba557ae419ba75822da73e5762
+Website link :- https://e-commerce-app-r.netlify.app/
 
 # Getting Started with Create React App
 
